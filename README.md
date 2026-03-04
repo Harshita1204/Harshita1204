@@ -1,17 +1,17 @@
-<h2>Hey!!👋, Myself HarshitaPreet Kaur</h2>
-<h3>I'm pursuing Master's in Computer Application from Lovely Professional University, Jalandhar</h3> 
+<h2>Hey!!👋, My name is HarshitaPreet Kaur</h2>
+<h3>I'm pursuing Master's in Computer Application from Lovely Professional University </h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehashekhawat255&label=Profile%20views&color=0e75b6&style=flat" alt="nehashekhawat255" /> </p>
 
 <p align="left"> <a href="https://linkedin.com/in/nehakanwar30" target="blank"><img src="https://img.shields.io/twitter/follow/Harshita?logo=twitter&style=for-the-badge" alt="Harshita" /></a> </p>
 
-- 🌱 I’m currently learning **DSA & Web Development**
+-  I’m currently learning **DSA & Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Harshita1204](https://github.com/Harshita1204)
+-  All of my projects are available at [https://github.com/Harshita1204](https://github.com/Harshita1204)
 
-- 💬 Ask me about **C++, OOPs or DBMS**
+-  Ask me about **C++, OOPs or DBMS**
 
-- 📫 How to reach me **harshitak1204@gmail.com**
+-  How to reach me **harshitak1204@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
