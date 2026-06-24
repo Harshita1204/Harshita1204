@@ -25,8 +25,6 @@
 
 **Frameworks & Technologies**
 
-* Laravel
-* CodeIgniter
 * HTML5
 * CSS3
 * Bootstrap
