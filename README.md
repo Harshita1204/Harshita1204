@@ -10,7 +10,7 @@
 ## Currently Learning
 
 * Data Structures & Algorithms
-* Laravel
+* Operating System
 * System Design 
 
 ## Technical Skills
